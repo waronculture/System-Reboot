@@ -15,4 +15,8 @@ Contribute to the Project:
 
 An open-source project from "War on culture". If you are willing, we encourage you to share your updated, scaled files and attachment designs back to the project. This is how we can collaboratively build a new fashion system, one season at a time.
 
+
+![alt text](images/L9999913.jpg)
 ![alt text](images/Outfit_1.jpg)
+![alt text](images/Outfit_2.jpg)
+![alt text](images/Outfit_3.jpg)
