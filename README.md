@@ -14,3 +14,5 @@ The method of attaching the design to your shoe is a creative challenge left up 
 Contribute to the Project:
 
 An open-source project from "War on culture". If you are willing, we encourage you to share your updated, scaled files and attachment designs back to the project. This is how we can collaboratively build a new fashion system, one season at a time.
+
+![alt text](images/Outfit_1.jpg)
