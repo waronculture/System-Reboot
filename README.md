@@ -1,5 +1,5 @@
 # System-Reboot
-A digital rebellion against fast fashion. War on culture's System-Reboot is a movement to reclaim creative autonomy. This repository hosts open-source 3D files and paper patterns to empower a new generation of designers and makers. Starting with downloadable attachments for the Nike AF1.
+A digital rebellion against fast fashion. War on culture's System-Reboot is a movement to reclaim creative autonomy. This repository hosts open-source 3D files to empower a new generation of designers and makers. Starting with downloadable attachments for the Nike AF1.
 
 What's in this Repository:
 
@@ -13,7 +13,7 @@ The method of attaching the design to your shoe is a creative challenge left up 
 
 Contribute to the Project:
 
-An open-source project from "War on culture". If you are willing, I encourage you to share your updated, scaled files and attachment designs back to the project. This is how we can collaboratively build a new fashion system, one season at a time.
+An open-source project from "War on culture". If you are willing, I encourage you to share your updated, scaled files and attachment designs back to the project. This is how we can collaboratively build a new fashion system.
 
 ![alt text](images/WOC-50.jpg)
 ![alt text](images/WOC_1.jpg)
